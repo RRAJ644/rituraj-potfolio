@@ -20,7 +20,7 @@ const Header = () => {
           RITU RAJ SINGH
         </h1>
         <p data-aos='fade-up'>
-          I’m Ritu Raj Singh, a Freelance Full Stack Web Developer with expertise in
+          I’m Ritu Raj Singh, a Full Stack Web Developer with expertise in
           custom website development, SaaS solutions, and MVP development.
           Whether you're looking to build a responsive website, a robust web
           application, or streamline your online presence, I provide tailored
