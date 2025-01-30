@@ -60,9 +60,9 @@ const About = () => {
             digital presence that sets you apart from the competition. Don’t
             forget to check out my resume below!
           </p>
-          <a href={CV} download className='btn primary'>
+{/*           <a href={CV} download className='btn primary'>
             Download CV <HiDownload />
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
