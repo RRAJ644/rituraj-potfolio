@@ -53,14 +53,14 @@ const data = [
     visit: 'https://unchained-theta.vercel.app/',
   },
 
-  {
-    id: 5,
-    category: 'frontend',
-    image: Image5,
-    title: 'Odinn - CRM',
-    desc: 'Project associated with SecretMindtech. Worked on Frontend and Backend of the CRM system developed the APIs of the system and frontend.',
-    visit: 'https://dev.odinn.io/en/login',
-  },
+  // {
+  //   id: 5,
+  //   category: 'frontend',
+  //   image: Image5,
+  //   title: 'Odinn - CRM',
+  //   desc: 'Project associated with SecretMindtech. Worked on Frontend and Backend of the CRM system developed the APIs of the system and frontend.',
+  //   visit: 'https://dev.odinn.io/en/login',
+  // },
 
   {
     id: 6,
