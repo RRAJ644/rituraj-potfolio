@@ -14,8 +14,19 @@ import Image3 from '../../assets/blog-portal.png'
 import Image4 from '../../assets/unchained.png'
 import Image5 from '../../assets/odinn.png'
 import Image6 from '../../assets/gff.png'
+import Image7 from '../../assets/Project10.png'
+
 
 const data = [
+  {
+    id: 7,
+    category: 'frontend',
+    image: Image7,
+    title: 'Untamed Pixels Studio',
+    desc: "Developed the Portfolio website for the cool animation studio showcasing their amazing talent producing mind blowing projects with brands",
+    visit: 'https://untamedpixels.com/',
+  },
+
   {
     id: 1,
     category: 'frontend',
@@ -70,6 +81,7 @@ const data = [
     desc: "Project associated with SecretMindtech. Worked on the Admin panel's of the App. I developed the APIs and improved performances of modules.",
     visit: 'https://dev.admin.girlsfirstfinance.com/auth/login',
   },
+
 ]
 
 export default data
