@@ -23,7 +23,7 @@ const data = [
     category: 'frontend',
     image: Image7,
     title: 'Untamed Pixels Studio',
-    desc: "Developed the Portfolio website for the cool animation studio to elevate the digital presence. They have done some relly crazy work for various brands belonging to different categories producing CGI Advertisements",
+    desc: "Developed the Portfolio website for the cool animation studio to elevate the digital presence. They have done crazy work for various brands.",
     visit: 'https://untamedpixels.com/',
   },
 
